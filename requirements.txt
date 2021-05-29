@@ -1,0 +1,11 @@
+tensorflow==2.0.
+pymessenger==0.0.7.0
+setuptools==41.2.0
+beautifulsoup4
+google
+nltk
+numpy
+pandas
+flask
+gunicorn
+
